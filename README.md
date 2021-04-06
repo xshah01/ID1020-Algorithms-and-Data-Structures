@@ -1,4 +1,4 @@
-# ID1020-Algorithms-and-Data-Structures
+# ID1020 Algorithms and Data Structures
 
 ### Description
 
